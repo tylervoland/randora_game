@@ -1,0 +1,9 @@
+{
+	"name": "randora-game",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, joshka",
+	"authors": ["joshka"],
+	"dependencies": {
+		"randora-engine" : ">=0.0.1"
+	}
+}
