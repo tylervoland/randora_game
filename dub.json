@@ -1,14 +1,4 @@
 {
-	
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, joshka",
-	"authors": ["joshka"],
-	"dependencies": {
-		"randora-engine" : ">=0.0.1"
-	}
-}
-
-{
 	"name": "randora-game",
 	"description": "Randora Game",
 	"copyright": "Copyright © 2015, Master Foo",
