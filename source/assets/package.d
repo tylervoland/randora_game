@@ -10,7 +10,7 @@ package import assets.game.sound;
 package import assets.game.spritesheets;
 package import assets.game.styles;
 
-public import rnd.owned;
+public import owned;
 
 public import parent_package = source;
 enum string DIRECTORY = parent_package.DIRECTORY ~ "assets/";

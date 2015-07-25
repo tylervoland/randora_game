@@ -6,4 +6,5 @@ public import assets.game.styles;
 
 public import parent_package = assets.game.styles;
 
-enum string DIRECTORY = parent_package.DIRECTORY ~ "aero/";
+//enum string DIRECTORY = parent_package.DIRECTORY ~ "aero/";
+enum string _DIRECTORY = "./source/assets/styles/aero/textures/";

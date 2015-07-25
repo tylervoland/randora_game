@@ -1,6 +1,6 @@
 module resources.aero.textures;
 
-import rnd.resource.texture;
+import resource.texture;
 class AeroTextures(Master) : RNDTexture!(Master){
 	this(Master master, string file){
 		super(

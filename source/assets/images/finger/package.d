@@ -6,4 +6,5 @@ public import assets.game.images;
 
 public import parent_package = assets.game.images;
 
-enum string DIRECTORY = parent_package.DIRECTORY ~ "finger/";
+//enum string DIRECTORY = parent_package.DIRECTORY ~ "finger/";
+enum string FINGER_DIRECTORY = "./source/assets/images/finger/";

@@ -2,7 +2,7 @@ module assets.game.images;
 
 package import assets.game.images.finger;
 
-public import rnd.box.image;
+public import box.image;
 
 public import parent_package = assets;
 

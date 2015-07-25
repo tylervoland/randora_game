@@ -1,6 +1,6 @@
 module hud_layer.xbox;
 /+
-import rnd.container.context_menu;
+import container.context_menu;
 class XBox(Master) : RNDContextMenu!(Master, XBox){
 	this(Master master){
 		super(master);

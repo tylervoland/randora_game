@@ -1,7 +1,7 @@
 module music.music;
 
 import game.music;
-import rnd.resource.music;
+import resource.music;
 class Music(Master) : RNDMusic!(Master){
 	this(Master master, string file){
 		super(master, MUSIC_DIRECTORY, file);
