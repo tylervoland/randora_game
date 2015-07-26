@@ -10,5 +10,7 @@
 
 ![16pWd5TSxKvsy8dBrTMNEEVidbv5xiuTtf](./16pWd5TSxKvsy8dBrTMNEEVidbv5xiuTtf.bmp "Bitcoin")
 
-[16pWd5TSxKvsy8dBrTMNEEVidbv5xiuTtf](http://bitcoin:1448PbGuf75o7U2oLq2AfH2HHkCnBUEL5X&message=donation)
+[16pWd5TSxKvsy8dBrTMNEEVidbv5xiuTtf](bitcoin:1448PbGuf75o7U2oLq2AfH2HHkCnBUEL5X&message=donation)
+
+<a href="bitcoin:1448PbGuf75o7U2oLq2AfH2HHkCnBUEL5X&message=donation">16pWd5TSxKvsy8dBrTMNEEVidbv5xiuTtf</a>
 
