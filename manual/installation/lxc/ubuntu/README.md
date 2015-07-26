@@ -7,3 +7,5 @@
 #### [LXC](/manual/installation/lxc/README.md)
 
 ##### [Ubuntu](/manual/installation/lxc/ubuntu/README.md)
+
+    sudo apt-get install lxc

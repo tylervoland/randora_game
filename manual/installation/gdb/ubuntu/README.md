@@ -7,3 +7,5 @@
 #### [GDB](/manual/installation/gdb/README.md)
 
 ##### [Ubuntu](/manual/installation/gdb/ubuntu/README.md)
+
+    sudo apt-get install gdb

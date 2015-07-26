@@ -7,3 +7,5 @@
 #### [DMD](/manual/installation/dmd/README.md)
 
 ##### [Ubuntu](/manual/installation/dmd/ubuntu/README.md)
+
+    sudo apt-get install dmd
