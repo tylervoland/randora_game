@@ -1,11 +1,11 @@
-# [Randora-Game](./README.md)
+# [Randora-Game](/README.md)
 
-## [Manual](./manual/)
+## [Manual](/manual/)
 
-### [Installation](./manual/installation/)
+### [Installation](/manual/installation/)
 
-### [Tools](./manual/tools/)
+### [Tools](/manual/tools/)
 
-### [Tutorials](./manual/tutorials/)
+### [Tutorials](/manual/tutorials/)
 
-# [License](./LICENSE.md)
+# [License](/LICENSE.md)

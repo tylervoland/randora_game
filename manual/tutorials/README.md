@@ -1,4 +1,7 @@
-# Tutorials
+# [Randora-Game](/README.md)
 
-## Hello World
-[Hello World](./hello_world/)
+## [Manual](/manual/)
+
+### [Tutorials](/manual/tutorials/)
+
+#### [Hello World](/manual/tutorials/hello_world/)
