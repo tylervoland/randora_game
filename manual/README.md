@@ -2,9 +2,11 @@
 
 ## [Manual](/manual/README.md)
 
-### [Installation](/manual/installation/README.md)
+* ### [Installation](/manual/installation/README.md)
 
-### [Tools](/manual/tools/README.md)
+* ### [Tools](/manual/tools/README.md)
 
-### [Tutorials](/manual/tutorials/README.md)
+* ### [Tutorials](/manual/tutorials/README.md)
+
+* ### [Contribute](/manual/contribute/README.md)
 
