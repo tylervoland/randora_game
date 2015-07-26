@@ -1,7 +1,7 @@
 # [Randora-Game](/README.md)
 
-## [Manual](/manual/)
+## [Manual](/manual/README.md)
 
-### [Installation](/manual/installation/)
+### [Installation](/manual/installation/README.md)
 
 #### [DMD](/manual/installation/dmd.md)

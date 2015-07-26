@@ -1,19 +1,26 @@
 # [Randora-Game](/README.md)
 
-## [Manual](/manual/)
+## [Manual](/manual/README.md)
 
-### [Installation](/manual/installation/)
+### [Installation](/manual/installation/README.md)
 
-#### [Derelict](/manual/installation/derelict.md)
+#### [GIT](/manual/installation/git.md)
+
+#### [LXC](/manual/installation/lxc.md)
 
 #### [DMD](/manual/installation/dmd.md)
 
 #### [DUB](/manual/installation/dub.md)
 
-#### [Randora](/manual/installation/randora.md)
-
 #### [SDL](/manual/installation/sdl.md)
 
-#### [git](/manual/installation/git.md)
+#### [Randora](/manual/installation/randora.md)
 
-#### [lxc](/manual/installation/lxc.md)
+#### [Derelict](/manual/installation/derelict.md)
+
+
+
+
+
+
+

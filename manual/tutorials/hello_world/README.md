@@ -1,7 +1,7 @@
 # [Randora-Game](/README.md)
 
-## [Manual](/manual/)
+## [Manual](/manual/README.md)
 
-### [Tutorials](/manual/tutorials/)
+### [Tutorials](/manual/tutorials/README.md)
 
-#### [Hello World](/manual/tutorials/hello_world/)
+#### [Hello World](/manual/tutorials/hello_world/README.md)
