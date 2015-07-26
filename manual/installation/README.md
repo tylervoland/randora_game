@@ -13,3 +13,7 @@
 #### [Randora](/manual/installation/randora.md)
 
 #### [SDL](/manual/installation/sdl.md)
+
+#### [git](/manual/installation/git.md)
+
+#### [lxc](/manual/installation/lxc.md)
