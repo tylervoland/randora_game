@@ -6,14 +6,6 @@
 
 #### [Donate](/manual/contribute/donate/README.md)
 
-* [Bitcoin](/manual/contribute/donate/bitcoin/README.md)
+##### [Dogecoin](/manual/contribute/donate/dogecoin/README.md)
 
-* ~~Dash~~
 
-* ~~Dogecoin~~
-
-* ~~Litecoin~~
-
-* ~~Namecoin~~
-
-* ~~PayPal~~
