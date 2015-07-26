@@ -6,12 +6,12 @@
 
 #### [DUB](/manual/installation/dub/README.md)
 
-##### [Ubuntu](/manual/installation/dub/ubuntu/README.md)
+* ##### [Ubuntu](/manual/installation/dub/ubuntu/README.md)
 
-##### ~~Android~~
+* ##### ~~Android~~
 
-##### ~~OSX~~
+* ##### ~~OSX~~
 
-##### ~~iOS~~
+* ##### ~~iOS~~
 
-##### ~~Windows~~
+* ##### ~~Windows~~

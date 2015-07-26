@@ -6,12 +6,12 @@
 
 #### [LXC](/manual/installation/lxc/README.md)
 
-##### [Ubuntu](/manual/installation/lxc/ubuntu/README.md)
+* ##### [Ubuntu](/manual/installation/lxc/ubuntu/README.md)
 
-##### ~~Android~~
+* ##### ~~Android~~
 
-##### ~~OSX~~
+* ##### ~~OSX~~
 
-##### ~~iOS~~
+* ##### ~~iOS~~
 
-##### ~~Windows~~
+* ##### ~~Windows~~

@@ -6,12 +6,12 @@
 
 #### [GIT](/manual/installation/git/README.md)
 
-##### [Ubuntu](/manual/installation/git/ubuntu/README.md)
+* ##### [Ubuntu](/manual/installation/git/ubuntu/README.md)
 
-##### ~~Android~~
+* ##### ~~Android~~
 
-##### ~~OSX~~
+* ##### ~~OSX~~
 
-##### ~~iOS~~
+* ##### ~~iOS~~
 
-##### ~~Windows~~
+* ##### ~~Windows~~
