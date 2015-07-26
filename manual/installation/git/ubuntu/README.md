@@ -7,3 +7,7 @@
 #### [GIT](/manual/installation/git/README.md)
 
 ##### [Ubuntu](/manual/installation/git/ubuntu/README.md)
+
+    sudo apt-get install git
+
+
