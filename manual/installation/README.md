@@ -10,6 +10,8 @@
 
 #### [DMD](/manual/installation/dmd/README.md)
 
+#### [GDB](/manual/installation/gdb/README.md)
+
 #### [DUB](/manual/installation/dub/README.md)
 
 #### [SDL](/manual/installation/sdl/README.md)
