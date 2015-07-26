@@ -1,16 +1,15 @@
-# Installation
+# [Randora-Game](/README.md)
 
-## DMD
-[DMD](./dmd.md)
+## [Manual](/manual/)
 
-## DUB
-[DUB](./dub.md)
+### [Installation](/manual/installation/)
 
-## SDL
-[SDL](./sdl.md)
+#### [Derelict](/manual/installation/derelict.md)
 
-## Derelict
-[Derelict](./derelict.md)
+#### [DMD](/manual/installation/dmd.md)
 
-## Randora
-[Randora](./randora.md)
+#### [DUB](/manual/installation/dub.md)
+
+#### [Randora](/manual/installation/randora.md)
+
+#### [SDL](/manual/installation/sdl.md)

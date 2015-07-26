@@ -1,4 +1,5 @@
-# Using the Tools
+# [Randora-Game](/README.md)
 
-## Generate Documentation
-[Generate Documentaion](./docs/)
+## [Manual](/manual/)
+
+### [Tools](/manual/tools/)
