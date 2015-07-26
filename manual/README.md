@@ -1,10 +1,10 @@
-# Manual
+# [Randora-Game](/README.md)
 
-## Installation
-[Installation](./installation/)
+## [Manual](/manual/)
 
-## Using the Tools
-[Using the tools](./tools/)
+### [Installation](/manual/installation/)
 
-## Tutorials
-[Tutorials](./tutorials/)
+### [Tools](/manual/tools/)
+
+### [Tutorials](/manual/tutorials/)
+
