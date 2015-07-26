@@ -4,6 +4,6 @@
 
 ### [Installation](/manual/installation/README.md)
 
-#### [GIT](/manual/installation/dmd/README.md)
+#### [DMD](/manual/installation/dmd/README.md)
 
 ##### [Ubuntu](/manual/installation/dmd/ubuntu/README.md)

@@ -4,6 +4,6 @@
 
 ### [Installation](/manual/installation/README.md)
 
-#### [GIT](/manual/installation/derelict/README.md)
+#### [Derelict](/manual/installation/derelict/README.md)
 
 ##### [Ubuntu](/manual/installation/derelict/ubuntu/README.md)

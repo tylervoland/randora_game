@@ -4,6 +4,6 @@
 
 ### [Installation](/manual/installation/README.md)
 
-#### [GIT](/manual/installation/lxc/README.md)
+#### [LXC](/manual/installation/lxc/README.md)
 
 ##### [Ubuntu](/manual/installation/lxc/ubuntu/README.md)
