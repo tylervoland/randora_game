@@ -6,12 +6,6 @@
 
 #### [GDB](/manual/installation/gdb/README.md)
 
-##### [Ubuntu](/manual/installation/gdb/ubuntu/README.md)
+##### [iOS](/manual/installation/gdb/ios/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~

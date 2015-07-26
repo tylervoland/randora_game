@@ -6,12 +6,6 @@
 
 #### [SDL](/manual/installation/sdl/README.md)
 
-##### [Ubuntu](/manual/installation/sdl/ubuntu/README.md)
+##### [Android](/manual/installation/sdl/android/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~

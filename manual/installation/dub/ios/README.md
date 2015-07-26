@@ -6,12 +6,6 @@
 
 #### [DUB](/manual/installation/dub/README.md)
 
-##### [Ubuntu](/manual/installation/dub/ubuntu/README.md)
+##### [iOS](/manual/installation/dub/ios/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~

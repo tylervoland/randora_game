@@ -6,12 +6,6 @@
 
 #### [DMD](/manual/installation/dmd/README.md)
 
-##### [Ubuntu](/manual/installation/dmd/ubuntu/README.md)
+##### [OSX](/manual/installation/dmd/osx/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~

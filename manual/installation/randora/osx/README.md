@@ -6,12 +6,6 @@
 
 #### [Randora](/manual/installation/randora/README.md)
 
-##### [Ubuntu](/manual/installation/randora/ubuntu/README.md)
+##### [OSX](/manual/installation/randora/osx/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~

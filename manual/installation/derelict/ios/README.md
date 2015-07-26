@@ -6,12 +6,6 @@
 
 #### [Derelict](/manual/installation/derelict/README.md)
 
-##### [Ubuntu](/manual/installation/derelict/ubuntu/README.md)
+##### [iOS](/manual/installation/derelict/ios/README.md)
 
-##### ~~Android~~
 
-##### ~~OSX~~
-
-##### ~~iOS~~
-
-##### ~~Windows~~
