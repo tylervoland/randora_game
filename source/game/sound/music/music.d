@@ -1,5 +1,5 @@
 module music.music;
-
+/+
 import game.music;
 import resource.music;
 class Music(Master) : RNDMusic!(Master){
@@ -13,4 +13,5 @@ class MusicFile(Master) : Music!(Master){
 		super(master, "music_file.mp3");
 	}
 }
++/
 +/

@@ -4,7 +4,7 @@ import game.app;
 class App : BaseApp!(App, App){
 	Screens!(App) screens = null;
 	
-	import assets;
+	//import assets;
 	Assets!(typeof(this)) _assets = null;
 	
 	this(){

@@ -4,7 +4,7 @@ import hud_layer;
 class HUDMenu(Master) : RNDContextMenu!(Master, HUDMenu){
 	//public XBox!(typeof(this)) xbox = null;
 	
-	import assets.game.styles.aero.textures;
+	import randora_assets.styles.aero.textures;
 	WidgetBackground!(typeof(this)) background = null;
 	
 	this(Master master){

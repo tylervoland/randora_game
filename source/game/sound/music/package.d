@@ -2,6 +2,6 @@ module game.music;
 
 string MUSIC_DIRECTORY = "./source/assets/game/sound/music/";
 
-package import resource.music;
+//package import randora.sound.music;
 
-package import music.music;
+//package import music.music;

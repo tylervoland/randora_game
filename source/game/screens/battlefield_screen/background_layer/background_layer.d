@@ -2,7 +2,7 @@ module background_layer.background_layer;
 
 import background_layer;
 class BackgroundLayer(Master) : RNDLayer!(Master, BackgroundLayer){
-	import assets.game.styles.aero;
+	import randora_assets.styles.aero;
 	Grunge!(typeof(this)) background = null;
 	SunBeam!(typeof(this)) sunbeam = null;
 	SunBeam!(typeof(this)) sunbeam2 = null;

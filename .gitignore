@@ -25,3 +25,9 @@ sdl2
 
 #Debugger
 .gdbinit
+
+#Assets moved from scaffolds when built
+public/assets
+public/engine
+public/ui
+

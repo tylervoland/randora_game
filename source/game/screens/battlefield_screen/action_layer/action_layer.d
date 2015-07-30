@@ -3,7 +3,7 @@ module action_layer.action_layer;
 import action_layer;
 class ActionLayer(Master) : RNDLayer!(Master, ActionLayer){
 	//import assets.game.images.finger;
-	import assets;
+	//import assets;
 	Finger!(typeof(this)) finger = null;
 	
 	this(Master master){

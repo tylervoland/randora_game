@@ -1,5 +1,5 @@
 module source;
 
-package import assets;
+package import randora_assets;
 
 enum string DIRECTORY = "./source/";
