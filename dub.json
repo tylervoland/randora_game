@@ -7,7 +7,9 @@
 	"license": "Attribution-NonCommercial-ShareAlike 4.0 International",
 	"targetPath": "bin",
 	"dependencies": {
-		"randora-engine" : ">=0.0.1"
+		"randora-engine":	">=0.0.1",
+		"randora-assets":	">=0.0.1",
+		"randora-ui":		">=0.0.1"
 	},
 	"sourcePaths": [
 		"source"
