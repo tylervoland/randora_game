@@ -1,9 +1,7 @@
-module action_layer.action_layer;
+module game.layers.action.action;
 
-import action_layer;
-class ActionLayer(Master) : RNDLayer!(Master, ActionLayer){
-	//import assets.game.images.finger;
-	//import assets;
+import game.layers.action;
+class Action(Master) : RNDLayer!(Master, Action){
 	Finger!(typeof(this)) finger = null;
 	
 	this(Master master){

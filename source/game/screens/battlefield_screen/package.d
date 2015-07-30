@@ -1,9 +1,9 @@
-module screens.battlefield_screens;
+module game.screens.battlefield_screens;
 
-package import screens.battlefield_screens.battlefield_screens;
+package import game.screens.battlefield_screens.battlefield_screens;
 
-package import action_layer;
-package import background_layer;
-package import hud_layer;
+package import game.layers.action;
+package import game.layers.background;
+package import game.layers.hud;
 
 package import randora_ui.screen;
