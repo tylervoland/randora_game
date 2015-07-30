@@ -1,4 +1,4 @@
-module scaffold.clips.fighter_clips;
+module game.clips.fighter_clips;
 /+
 import std.stdio;
 

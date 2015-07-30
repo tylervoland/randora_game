@@ -1,4 +1,4 @@
-module game.music;
+module game.sound.music;
 
 string MUSIC_DIRECTORY = "./source/assets/game/sound/music/";
 

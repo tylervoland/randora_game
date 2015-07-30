@@ -1,1 +1,1 @@
-module resources.sound;
+module game.sound.sound;

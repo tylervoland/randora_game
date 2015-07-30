@@ -1,5 +1,6 @@
-module scaffold.animations.avatar_animations;
+module game.animations.animations;
 
+import game.animations;
 class AvatarAnimations{
 	this(){
 		this.animations["cast_spell"] ~= [

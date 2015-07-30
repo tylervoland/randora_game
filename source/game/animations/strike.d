@@ -1,4 +1,4 @@
-module scaffold.animations.strike;
+module game.animations.strike;
 /+
 import std.stdio;
 

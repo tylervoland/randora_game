@@ -1,4 +1,4 @@
-module scaffold.animations.ko;
+module game.animations.ko;
 /+
 import std.stdio;
 

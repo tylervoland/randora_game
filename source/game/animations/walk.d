@@ -1,4 +1,4 @@
-module scaffold.animations.walk;
+module game.animations.walk;
 /+
 import std.stdio;
 

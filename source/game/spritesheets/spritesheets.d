@@ -1,1 +1,1 @@
-module resources.spritesheets;
+module game.spritesheets.spritesheets;

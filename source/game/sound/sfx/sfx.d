@@ -1,1 +1,1 @@
-module resource.sound.sfx;
+module game.sound.sfx.sfx;

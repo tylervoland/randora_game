@@ -1,4 +1,4 @@
-module scaffold.animations.wave;
+module game.animations.wave;
 /+
 import std.stdio;
 

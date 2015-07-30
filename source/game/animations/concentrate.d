@@ -1,4 +1,4 @@
-module scaffold.animations.concentrate;
+module game.animations.concentrate;
 /+
 import std.stdio;
 

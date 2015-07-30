@@ -1,4 +1,4 @@
-module scaffold.animations.cast_spell;
+module game.animations.cast_spell;
 /+
 import std.stdio;
 

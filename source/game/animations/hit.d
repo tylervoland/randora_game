@@ -1,4 +1,4 @@
-module scaffold.animations.hit;
+module game.animations.hit;
 /+
 import std.stdio;
 

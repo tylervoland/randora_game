@@ -1,4 +1,4 @@
-module music.music;
+module game.sound.music.music;
 /+
 import game.music;
 import resource.music;
