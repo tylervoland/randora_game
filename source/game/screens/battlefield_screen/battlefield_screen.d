@@ -1,10 +1,9 @@
-module game.screens.battlefield_screens.battlefield_screens;
+module game.screens.battlefield_screen.battlefield_screen;
 
-import game.screens.battlefield_screens;
-class BattlefieldScreens(Master) : RNDScreen!(Master, BattlefieldScreens){
-	public Action!(typeof(this))	action = null;
+import game.screens.battlefield_screen;
+class BattlefieldScreen(Master) : RNDScreen!(Master, BattlefieldScreen){
+	public Action!(typeof(this))		action = null;
 	public Background!(typeof(this))	background = null;
-	//public HUDLayer!(typeof(this))		hud_layer = null;
 	public HUD!(typeof(this))			hud = null;
 	
 	this(Master master){
@@ -12,14 +11,11 @@ class BattlefieldScreens(Master) : RNDScreen!(Master, BattlefieldScreens){
 		this.type = "BattlefieldScreen";
 		this.name = "battlefield_screen";
 		
-		this.background = new Background!(typeof(this))(this);
-		this.add_slave(this.background);
-		
 		this.action = new Action!(typeof(this))(this);
 		this.add_slave(this.action);
 		
-		//this.hud_layer = new HUDLayer!(typeof(this))(this);
-		//this.add_slave(this.hud_layer);
+		this.background = new Background!(typeof(this))(this);
+		this.add_slave(this.background);
 		
 		this.hud = new HUD!(typeof(this))(this);
 		this.add_slave(this.hud);

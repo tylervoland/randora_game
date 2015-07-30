@@ -1,6 +1,6 @@
-module game.screens.battlefield_screens;
+module game.screens.battlefield_screen;
 
-package import game.screens.battlefield_screens.battlefield_screens;
+package import game.screens.battlefield_screen.battlefield_screen;
 
 package import game.layers.action;
 package import game.layers.background;
