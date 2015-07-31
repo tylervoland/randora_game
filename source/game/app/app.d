@@ -17,7 +17,7 @@ class App : UIApp!(App, App){
 	}
 	
 	@property{
-		override ref App root(){ return this; }
+		override ref App app(){ return this; }
 	}
 }
 
