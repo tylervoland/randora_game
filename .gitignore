@@ -20,6 +20,12 @@ dub.selections.json
 #Logs
 logs
 
+#Databases
+db
+
+#Temporary Directories
+tmp
+
 #Misc
 sdl2
 
@@ -30,4 +36,3 @@ sdl2
 public/assets
 public/engine
 public/ui
-
