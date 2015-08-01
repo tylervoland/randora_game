@@ -1,5 +1,5 @@
-module start_screen;
+module game.screens.start_screen;
 
-package import randora_ui.screen;
+package import game.screens.start_screen.start_screen;
 
-package import start_screen.start_screen;
+package import randora.ui.screen;

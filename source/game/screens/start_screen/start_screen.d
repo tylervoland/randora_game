@@ -1,7 +1,7 @@
-module start_screen.start_screen;
+module game.screens.start_screen.start_screen;
 
-import start_screen;
-class StartScreen(Master) : RNDScreen!(Master, StartScreen){
+import game.screens.start_screen;
+class StartScreen(Master) : UIScreen!(Master, StartScreen){
 	this(Master master){
 		super(master);
 	}

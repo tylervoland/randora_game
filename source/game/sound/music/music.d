@@ -1,8 +1,7 @@
 module game.sound.music.music;
 /+
-import game.music;
-import resource.music;
-class Music(Master) : RNDMusic!(Master){
+import game.sound.music;
+class Music(Master) : UIMusic!(Master){
 	this(Master master, string file){
 		super(master, MUSIC_DIRECTORY, file);
 	}

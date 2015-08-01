@@ -1,7 +1,7 @@
-module game.screens.battlefield_screen.battlefield_screen;
+module game.screens.battlefield.battlefield;
 
-import game.screens.battlefield_screen;
-class BattlefieldScreen(Master) : RNDScreen!(Master, BattlefieldScreen){
+import game.screens.battlefield;
+class Battlefield(Master) : UIScreen!(Master, Battlefield){
 	public Action!(typeof(this))		action = null;
 	public Background!(typeof(this))	background = null;
 	public HUD!(typeof(this))			hud = null;

@@ -1,7 +1,7 @@
 module game.layers.action.action;
 
 import game.layers.action;
-class Action(Master) : RNDLayer!(Master, Action){
+class Action(Master) : UILayer!(Master, Action){
 	Finger!(typeof(this)) finger = null;
 	
 	this(Master master){

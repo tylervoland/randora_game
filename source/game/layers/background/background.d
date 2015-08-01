@@ -1,7 +1,7 @@
 module game.layers.background.background;
 
 import game.layers.background;
-class Background(Master) : RNDLayer!(Master, Background){
+class Background(Master) : UILayer!(Master, Background){
 	Grunge!(typeof(this))	background	= null;
 	SunBeam!(typeof(this))	sunbeam		= null;
 	SunBeam!(typeof(this))	sunbeam2	= null;

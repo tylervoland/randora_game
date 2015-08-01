@@ -1,7 +1,7 @@
 module game.layers.hud.hud;
 
 import game.layers.hud;
-class HUD(Master) : RNDLayer!(Master, HUD){
+class HUD(Master) : UILayer!(Master, HUD){
 	//public HUDMenu!(typeof(this)) hud_menu = null;
 	
 	this(Master master){

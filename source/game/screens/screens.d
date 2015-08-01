@@ -1,9 +1,9 @@
 module game.screens.screens;
 
 import game.screens;
-class Screens(Master) : RNDContainer!(Master, Screens){
+class Screens(Master) : UIScreen!(Master, Screens){//RNDContainer!(Master, Screens){
 	//StartScreen!(typeof(this)) start_screen = null;
-	BattlefieldScreen!(typeof(this)) battlefield_screen = null;
+	Battlefield!(typeof(this)) battlefield = null;
 	
 	this(Master master){
 		super(master);
@@ -13,8 +13,8 @@ class Screens(Master) : RNDContainer!(Master, Screens){
 		//this.start_screen = new StartScreen!(typeof(this))(this);
 		//this.add_slave(this.start_screen);
 		
-		this.battlefield_screen = new BattlefieldScreen!(typeof(this))(this);
-		this.add_slave(this.battlefield_screen);
-		this.log();
+		this.battlefield = new Battlefield!(typeof(this))(this);
+		this.add_slave(this.battlefield);
+		//this.log();
 	}
 }
