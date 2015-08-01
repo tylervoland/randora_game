@@ -1,5 +1,5 @@
 {
-	"name": "Randora-Game",
+	"name": "randora_game",
 	"description": "Randora Game",
 	"copyright": "Copyright © 2015, Master Foo",
 	"authors": ["Master Foo"],
@@ -7,9 +7,9 @@
 	"license": "Attribution-NonCommercial-ShareAlike 4.0 International",
 	"targetPath": "bin",
 	"dependencies": {
-		"randora-engine":	">=0.0.1",
-		"randora-assets":	">=0.0.1",
-		"randora-ui":		">=0.0.1"
+		"randora_engine":	">=0.0.1",
+		"randora_assets":	">=0.0.1",
+		"randora_ui":		">=0.0.1"
 	},
 	"sourcePaths": [
 		"source"
